@@ -17,7 +17,7 @@
  *
  */
 
-let resource = 'http://tempdrive.esy.es/piu-songs/'
+let resources = 'http://tempdrive.esy.es/piu-songs/'
 // let resources = 'https://piulin.gentakojima.me/'
 // let resources = './'
 
