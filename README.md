@@ -5,6 +5,8 @@
 
 ![Demo Webpage](https://github.com/piulin/piured-engine/blob/main/imgs/demo-webpage.png?raw=true)
 
+<a href="https://danielvneitzel.github.io/piured_update_theme/">PLAY DEMO</a>
+
 Currently, this repository's [Github page site](https://piulin.github.io/piured/) is running a demo of the engine. 
 There is also a tutorial on how to use the webpage to play Pump It Up online without Stepmania in this [youtube video](https://www.youtube.com/watch?v=UMc8gmjEE88).
 
